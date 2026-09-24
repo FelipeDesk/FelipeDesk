@@ -50,19 +50,10 @@ My repositories document this learning process, from programming fundamentals to
 - **Automações em Python** para coletar e organizar informações.  
   *Python automation for collecting and organizing information.*
 
-### 🚀 Projetos em destaque | Featured Projects
-
-| Projeto / Project | O que faz / What it does | Tecnologias / Technologies |
-| --- | --- | --- |
-| [TOPIQ](https://github.com/FelipeDesk/TopiqReact) | Organiza assuntos em cards por categoria / Organizes topics into category cards | React, JavaScript |
-| [Web Scraping OLX](https://github.com/FelipeDesk/web_scraping_OLX) | Coleta anúncios de imóveis e organiza dados em planilhas / Collects property listings into spreadsheets | Python |
-| [Estante de Livros](https://github.com/FelipeDesk/estante_de_livros) | Gerencia livros com busca, filtros e armazenamento local / Manages books with search, filters and local storage | HTML, CSS, JavaScript |
-
 ---
 
 ## 📫 Contato | Contact
 
-🔗 [LinkedIn: ](https://www.linkedin.com/in/felipe-santiago-de-souza/)  
-📧 [Email: ](felipedesk467@gmail.com)
-
+📧 Email: **felipedesk467@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/felipe-santiago-de-souza/
 
