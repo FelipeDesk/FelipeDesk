@@ -21,7 +21,7 @@ My repositories document this learning process, from programming fundamentals to
 
 ## 🛠️ Tecnologias em prática | Skills & Tools
 
-### 🌐 Desenvolvimento Web | Web Development
+### 🌐 Web Development
 - HTML e CSS para estrutura e estilo de páginas
 - JavaScript para interatividade e manipulação do DOM
 - Formulários, eventos e operações CRUD
@@ -33,7 +33,7 @@ My repositories document this learning process, from programming fundamentals to
 - Formulários e eventos
 - Renderização condicional e de listas
 
-### ⚙️ Automação | Automation
+### ⚙️ Automation
 - Python aplicado à coleta de dados
 - Web scraping de anúncios
 - Organização de informações em planilhas
@@ -41,7 +41,7 @@ My repositories document this learning process, from programming fundamentals to
 
 ---
 
-## 📌 O que você encontra aqui | What You'll Find Here
+## 📌 O que você encontra aqui | What you'll find here
 
 - **Aplicações web de estudo** para praticar fundamentos e interatividade.  
   *Learning projects focused on web fundamentals and interactivity.*
@@ -60,20 +60,9 @@ My repositories document this learning process, from programming fundamentals to
 
 ---
 
-## 🌱 Aprendizado atual | Learning Focus
-
-Consolidar minha base em **JavaScript**, avançar em **React** e desenvolver novas aplicações de **Python para automação**. Feedbacks e trocas de conhecimento são bem-vindos!
-
-*Strengthening my JavaScript fundamentals, progressing with React, and exploring more Python automation projects. Feedback and knowledge sharing are welcome!*
-
----
-
 ## 📫 Contato | Contact
 
-🔗 [LinkedIn — Felipe Santiago](https://www.linkedin.com/in/felipe-santiago-de-souza/)  
-💻 [Explore meus repositórios | Explore my repositories](https://github.com/FelipeDesk?tab=repositories)
+🔗 [LinkedIn: ](https://www.linkedin.com/in/felipe-santiago-de-souza/)  
+📧 [Email: ](felipedesk467@gmail.com)
 
----
 
-⭐ *Aprendendo, construindo e evoluindo — um projeto de cada vez.*  
-*Learning, building and improving — one project at a time.*
