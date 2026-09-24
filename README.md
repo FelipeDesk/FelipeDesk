@@ -1,70 +1,79 @@
-<div align="center">
+# 👋 Olá! Eu sou o Felipe Santiago
 
-# Olá, eu sou o Felipe Santiago 👋
-
-### Desenvolvimento Web & Automação
-
-Construindo interfaces para a web e explorando formas de automatizar tarefas com código.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/felipe-santiago-de-souza/)
-[![Projetos](https://img.shields.io/badge/GitHub-Explore_meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeDesk?tab=repositories)
-
-</div>
+🇧🇷 **Desenvolvedor em início de carreira | Web & Automação | JavaScript, React e Python**  
+🇺🇸 **Early-career Developer | Web Development & Automation | JavaScript, React & Python**
 
 ---
 
-## Um pouco sobre mim
+## 🔎 Sobre mim | About Me
 
-Sou um desenvolvedor em início de carreira, com foco em **Desenvolvimento Web e Automação**. Aprendo colocando a mão no código: criando interfaces, desenvolvendo pequenas aplicações e explorando Python para organizar dados e simplificar tarefas repetitivas.
+🇧🇷  
+Estou começando minha jornada como desenvolvedor, com foco em criar aplicações web e explorar automações que simplificam tarefas do dia a dia. Aprendo na prática, construindo projetos com HTML, CSS, JavaScript e React e usando Python para coletar e organizar dados.
 
-Este perfil reúne meus projetos de estudo e minha evolução na prática. Estou consolidando os fundamentos e avançando um projeto de cada vez.
+Meus repositórios registram esse aprendizado: dos fundamentos da programação a pequenas aplicações com funcionalidades completas. A cada projeto, busco entender melhor o código e evoluir minha forma de desenvolver.
 
-## Tecnologias que estou praticando
+🇺🇸  
+I'm starting my journey as a developer, focused on building web applications and exploring automation for everyday tasks. I learn by creating projects with HTML, CSS, JavaScript and React, and by using Python to collect and organize data.
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-- **Web:** estruturação de páginas, estilização e interatividade com JavaScript.
-- **React:** componentes reutilizáveis, estado, formulários e renderização de listas.
-- **Automação:** coleta de dados com Python e organização de informações em planilhas.
-
-## Projetos para conhecer meu trabalho
-
-### ⚛️ [TOPIQ — organização de assuntos com React](https://github.com/FelipeDesk/TopiqReact)
-
-Aplicação que organiza assuntos favoritos em cards por categoria, com cadastro de itens e categorias personalizadas.
-
-**Na prática:** componentes, `useState`, `props`, eventos e formulários.
-
-### 🐍 [Web Scraping OLX — coleta de anúncios](https://github.com/FelipeDesk/web_scraping_OLX)
-
-Automação em Python para coletar informações de anúncios de imóveis para aluguel e organizá-las em planilhas de consulta.
-
-**Na prática:** coleta e estruturação de dados como título, preço, localização e link.
-
-### 📚 [Estante de Livros — biblioteca no navegador](https://github.com/FelipeDesk/estante_de_livros)
-
-Aplicação para cadastrar, editar, excluir e buscar livros, com filtro por gênero e armazenamento local no navegador.
-
-**Na prática:** HTML, CSS, JavaScript, manipulação do DOM, CRUD e `localStorage`.
-
-## Minha jornada
-
-Meu foco é fortalecer a base em JavaScript e React e continuar explorando automações com Python. Cada projeto é uma oportunidade de entender melhor um conceito e transformar o aprendizado em algo que funciona.
-
-Feedbacks e trocas de conhecimento são bem-vindos!
+My repositories document this learning process, from programming fundamentals to small applications with complete features. Each project helps me better understand the code and improve how I build software.
 
 ---
 
-<div align="center">
+## 🛠️ Tecnologias em prática | Skills & Tools
 
-**Vamos conversar sobre web, automação e aprendizado?**
+### 🌐 Desenvolvimento Web | Web Development
+- HTML e CSS para estrutura e estilo de páginas
+- JavaScript para interatividade e manipulação do DOM
+- Formulários, eventos e operações CRUD
+- Armazenamento de dados no navegador com localStorage
 
-[Me encontre no LinkedIn](https://www.linkedin.com/in/felipe-santiago-de-souza/) · [Veja meus repositórios](https://github.com/FelipeDesk?tab=repositories)
+### ⚛️ React
+- Componentes reutilizáveis
+- Estado com useState e passagem de dados via props
+- Formulários e eventos
+- Renderização condicional e de listas
 
-</div>
+### ⚙️ Automação | Automation
+- Python aplicado à coleta de dados
+- Web scraping de anúncios
+- Organização de informações em planilhas
+- Exploração de soluções para tarefas repetitivas
+
+---
+
+## 📌 O que você encontra aqui | What You'll Find Here
+
+- **Aplicações web de estudo** para praticar fundamentos e interatividade.  
+  *Learning projects focused on web fundamentals and interactivity.*
+- **Projetos em React** para explorar componentes e estado.  
+  *React projects exploring components and state.*
+- **Automações em Python** para coletar e organizar informações.  
+  *Python automation for collecting and organizing information.*
+
+### 🚀 Projetos em destaque | Featured Projects
+
+| Projeto / Project | O que faz / What it does | Tecnologias / Technologies |
+| --- | --- | --- |
+| [TOPIQ](https://github.com/FelipeDesk/TopiqReact) | Organiza assuntos em cards por categoria / Organizes topics into category cards | React, JavaScript |
+| [Web Scraping OLX](https://github.com/FelipeDesk/web_scraping_OLX) | Coleta anúncios de imóveis e organiza dados em planilhas / Collects property listings into spreadsheets | Python |
+| [Estante de Livros](https://github.com/FelipeDesk/estante_de_livros) | Gerencia livros com busca, filtros e armazenamento local / Manages books with search, filters and local storage | HTML, CSS, JavaScript |
+
+---
+
+## 🌱 Aprendizado atual | Learning Focus
+
+Consolidar minha base em **JavaScript**, avançar em **React** e desenvolver novas aplicações de **Python para automação**. Feedbacks e trocas de conhecimento são bem-vindos!
+
+*Strengthening my JavaScript fundamentals, progressing with React, and exploring more Python automation projects. Feedback and knowledge sharing are welcome!*
+
+---
+
+## 📫 Contato | Contact
+
+🔗 [LinkedIn — Felipe Santiago](https://www.linkedin.com/in/felipe-santiago-de-souza/)  
+💻 [Explore meus repositórios | Explore my repositories](https://github.com/FelipeDesk?tab=repositories)
+
+---
+
+⭐ *Aprendendo, construindo e evoluindo — um projeto de cada vez.*  
+*Learning, building and improving — one project at a time.*
